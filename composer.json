@@ -1,0 +1,15 @@
+{
+    "name": "gping/dp",
+    "autoload": {
+        "psr-4": {
+            "\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gping123",
+            "email": "1530188802@qq.com"
+        }
+    ],
+    "require": {}
+}
