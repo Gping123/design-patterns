@@ -2,7 +2,7 @@
     "name": "gping/dp",
     "autoload": {
         "psr-4": {
-            "\\": "src/"
+            "Src\\": "src/"
         }
     },
     "authors": [
